@@ -2,6 +2,12 @@
 
 **zuha77/zuha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#프로그래머스 풀기
+
+1.greedy
+- 체육복.py
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on code test
