@@ -1,8 +1,7 @@
 
-**zuha77/zuha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**zuha77/zuha77** is a ✨ _special_ ✨ repository because its coding test training set.
 #프로그래머스 풀기
-
+매일 하루 챔터 플러스 백준 
 ## 1.greedy
 * [체육복 1](체육복.py)
 
