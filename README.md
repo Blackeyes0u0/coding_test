@@ -1,7 +1,9 @@
 
 **zuha77/zuha77** is a ✨ _special_ ✨ repository because its coding test training set.
-#프로그래머스 풀기
+
 매일 하루 챔터 플러스 백준 
+https://app.codility.com/programmers/lessons/2-arrays/
+여기 사이트 좋다. 시험 보는 느낌들고 연습도 잘된다.
 ## 1.greedy
 * [체육복 1](체육복.py)
 * [백준 쉬운 문제들](bjgreedy.ipynb)
